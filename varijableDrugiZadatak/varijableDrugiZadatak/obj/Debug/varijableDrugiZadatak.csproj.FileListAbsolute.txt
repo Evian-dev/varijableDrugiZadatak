@@ -1,0 +1,2 @@
+C:\Users\tanja\source\repos\varijableDrugiZadatak\varijableDrugiZadatak\obj\Debug\varijableDrugiZadatak.csproj.AssemblyReference.cache
+C:\Users\tanja\source\repos\varijableDrugiZadatak\varijableDrugiZadatak\obj\Debug\varijableDrugiZadatak.csproj.CoreCompileInputs.cache
